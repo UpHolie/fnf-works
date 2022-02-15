@@ -1,4 +1,3 @@
-# fnf-works
 Some public stuff to help people doing covers
 
 # What do this have?
